@@ -11,13 +11,6 @@ I love building **scalable APIs, robust systems, and real-world solutions** that
 
 Always learning. Always shipping. Always debugging 😄
 
----
-
-### 🌍 Connect with me
-
-[![LinkedIn](https://www.linkedin.com/in/abdo-amr-a712005c/)](https://linkedin.com/)
-[![GitHub]()](https://github.com/abdoamr99)
-[![Gmail]()](abdo.amr712003@gmail.com)
 
 ---
 
